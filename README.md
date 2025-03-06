@@ -3,7 +3,7 @@
 # SampleApp-CRUD-Java
 SampleApp-CRUD-Java
 
-<p>Welcome to the Intuit Developer's Java Sample App for CRUD operations.</p>
+<p>Welcome to the Java Sample App for CRUD operations.</p>
 <p>This sample app is meant to provide working examples of how to integrate your app with the Intuit Small Business ecosystem. Specifically, this sample application demonstrates the following:</p>
 
 <ul>
